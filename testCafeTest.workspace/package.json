@@ -1,0 +1,11 @@
+{
+  "name": "testcafe_challenge",
+  "version": "1.0.0",
+  "description": "TestCafe Project",
+  "main": "index.js",
+  "scripts": {
+    "test-runner": "testcafe all '/Users/edgarnav/Documents/testCafeTest.workspace/page_model/test/'"
+  },
+  "author": "Edgar",
+  "license": "ISC"
+}
